@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font: 18px "Lucida Grande", "Lucida Sans", "Trebuchet MS", verdana, sans-serif;
+}
+
+.bg-overlay {
+  height: 700px;
+}
+
+.about {
+  color: white;
+  font-size: 18px;
+  text-indent: 50px;
+  padding-top: 60px;
+  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR_wlKj2lNi04WahveHBtE8rAUU43l4Nd7gN5u6N_VhGcmYaBaGQ') no-repeat center center fixed;
+  padding-bottom: 60px;
+  background-size: cover;
+  height: 620px;
+}
+
+.btn {
+  display: inline-block;
+  color: #000;
+  background: #C0C0C0;
+  border: 5px;
+  text-shadow: 1px 1px 1px;
+  box-shadow: 1px 1px 1px;
+}
+
+.btn:hover {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.9);
+}
+
+
+/*ul.social-btns {
+  float: right;*/
+
+
+}
+.bg-overlay1 {
+  height: 620px;
+}
+.portfolio {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  text-indent: 50px;
+  padding-top: 60px;
+  background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZh9neFRweoDOSrZud8KZQzmz_3ItsV2mgQPyyP-i7Cwvncf8j') no-repeat center center fixed;
+  background-size: cover;
+  height: 1000px;
+}
+.bg-overlay2 {
+  height: 1000px;
+}
+.contact {
+  text-align: center;
+  padding-top: 50px;
+  background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo_teDKGRM0JY6DTss0B0L-2h26p66qkXiK1V76ExXqQ0kPP0M') no-repeat center center fixed;
+  padding-bottom: 50px;
+  background-size: cover;
+  heignt: 500px;
+}
+.bg-overlay3 {
+  height: 500px;
+}
+.home {
+  height: 800px;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  background: url('http://media.idownloadblog.com/wp-content/uploads/2015/06/Wallpaper-OS-X-El-Capitan-Mac.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 800px;
+}

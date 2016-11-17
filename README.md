@@ -1,2 +1,2 @@
 This was a simple project as part of the many projects created on freecodecamp.com Web Developer Front End Developer Projects.
-can be seen at <a href="firstportfolio.ggetchell.com">My 1st Portfolio Web Page</a>
+can be seen at <a href="http://www.ggetchell.com/firstportfolio/index.html">My 1st Portfolio Web Page</a>
